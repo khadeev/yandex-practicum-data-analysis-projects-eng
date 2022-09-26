@@ -1,4 +1,4 @@
-# Research of Video Games Sales
+# Research of Video Games Market
 
 The purpose of the research is to identify patterns that determine success of a game. This will allow to focus on a potentially popular product and to plan advertising campaigns.
 
